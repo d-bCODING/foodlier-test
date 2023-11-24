@@ -6,7 +6,7 @@
     },
     {
       "source": "/[^.]+",
-      "dest": "/",
+      "destination": "/",
       "status": 200
     }
   ]
