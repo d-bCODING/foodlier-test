@@ -5,7 +5,7 @@
       "destination": "http://ec2-15-165-55-217.ap-northeast-2.compute.amazonaws.com/:path*"
     },
     {
-      "src": "/[^.]+",
+      "source": "/[^.]+",
       "dest": "/",
       "status": 200
     }
